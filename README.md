@@ -17,12 +17,12 @@
 |---|---|---|---|
 | 1 | Python & Data Fundamentals | [link] | ✅ |
 | 2 | Machine Learning | [link] | ✅ |
-| 3 | Deep Learning + Transfer Learning | [traffic-vehicle-classification](...) | 🚧 |
-| 4 | LLMs & RAG | ... | ⏳ |
-| 5 | Agents & Advanced RAG | ... | ⏳ |
-| 6 | Vision-Language & Diffusion | ... | ⏳ |
-| 7 | Audio AI & Deployment | ... | ⏳ |
-
+| 3 | Deep Learning + Transfer Learning | [traffic-vehicle-classification][traffic-def] | 🚧 |
+| 4 | NLP + Transformers | [Digikala-review-transformer][digikala-def] | ⏳ |
+| 5 | LLMs & RAG | ... | ⏳ |
+| 6 | Agents & Advanced RAG | ... | ⏳ |
+| 7 | Vision-Language & Diffusion | ... | ⏳ |
+| 8 | Audio AI & Deployment | ... | ⏳ |
 ---
 
 ### 📚 My Learning Method: Conceptual Bootstrapping
@@ -40,3 +40,10 @@ I view each project not merely as an "exercise," but as **a cognitive brick** th
 
 📫 Contact: [LinkedIn] · [Email] · [Maktab Sharif Profile]
 
+
+
+[traffic-def]: https://github.com/mhtavassoli/traffic-vehicle-classification
+[digikala-def]: https://github.com/mhtavassoli/Digikala-review-transformer
+
+[Email]: tavassoli.mh86@gmail.com
+[LinkedIn]: https://www.linkedin.com/in/mohammad-hosein-tavassoli-9841a0b/
